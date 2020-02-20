@@ -1,2 +1,2 @@
-# github-pages-demo
-GitHub Pages Demo
+# github-pages
+GitHub Pages
